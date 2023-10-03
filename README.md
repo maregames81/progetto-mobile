@@ -1,5 +1,3 @@
 # progetto-mobile
 
-hello world 
-stacce
-AOOOOOOOOO
+modifico il readme come una lista
